@@ -20,15 +20,15 @@ social:
     github: deli990
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: deli6780
+    #jianshu: deli6780
     # twitter: 
-    mail: 2630151368@qq.com
+    #mail: 2630151368@qq.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: xxxx  
+    id: fa3b1b0fab12a8908aff7bea4fbfbbbf  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
