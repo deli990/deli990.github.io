@@ -5,24 +5,24 @@ description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: deli
 # 头像里面的描述
-avatarDesc: android开发/网页前端开发
+avatarDesc: android开发/Java开发/网页前端开发 
 url: "http://deli990.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: deli990
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    #weibo: 5366874726 
+    github: deli990
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: deli6780
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 2630151368@qq.com
 
 
 # 百度统计 
